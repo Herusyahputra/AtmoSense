@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "454195797521",
+    "firebase_url": "https://air-quality-iot-cea00-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "air-quality-iot-cea00",
+    "storage_bucket": "air-quality-iot-cea00.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454195797521:android:515600b6d28dcfd372dbb0",
+        "android_client_info": {
+          "package_name": "com.example.air_quality_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Z8hu0ZqGXua5W-kK5RR1ffgDFX88W74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454195797521:android:a0c69b718fa2e71472dbb0",
+        "android_client_info": {
+          "package_name": "com.mycompany.AtmoSense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Z8hu0ZqGXua5W-kK5RR1ffgDFX88W74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454195797521:android:1e1e7ac4b8b8be3672dbb0",
+        "android_client_info": {
+          "package_name": "com.mycompany.atmosensepro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Z8hu0ZqGXua5W-kK5RR1ffgDFX88W74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
